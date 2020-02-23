@@ -2,7 +2,7 @@
 A bot that connects to the Google Drive API and uses account credentials to send and receive information. Its main goal is to create, upload, and change ownership of files on a user's Google Drive account from Discord. It uses OAuth2 to authenticate users and uses access tokens to enable application programming interface (API) calls. Under the hood, it runs on Node.js, a server-side JavaScript solution.
 
 ## Getting Started
-To start using it, invite the DriveCord bot to a Discord server of choice through [this link](https://discordapp.com/oauth2/authorize?&client_id=625423183876718593&scope=bot&permissions=117760) (the **'Manage Server'** permission on a given server is required to invite it there).
+To start using it, invite the DriveCord bot to a Discord server of choice through [this link](https://discordapp.com/oauth2/authorize?&client_id=681195763078135893&scope=bot&permissions=117760) (the **'Manage Server'** permission on a given server is required to invite it there).
 
 A good place to start after inviting the bot is the **setup** command, which will set up a Google account using OAuth2. (This command requires the **'Manage Server'** permission to use it!) By default, this will run by entering "**d!setup**" in the Discord client.
 
